@@ -1,0 +1,9 @@
+Requirements to Install Project 
+-----------------------------
+1. VS Code
+2. Python 3.8.5 64bit (as not able to import some libraries in after releases of 3.8.5 so just use python 3.8.5) 
+3. mysql workbench ( create database same as mention in project file in MySQL )
+    please make a schema named "face_recoognition" and create a table named student, i have given an sql file in which there is dataset of that table and in the readme i have pasted an image on github, please refer that for creating column name and their types
+-----------------------------
+Install Libaries as Mention in Files of Project 
+ 
